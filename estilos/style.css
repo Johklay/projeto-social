@@ -63,9 +63,10 @@ section#redes-sociais img:hover{
     transition: transform .4s, border 1s;
 }
 
-@media (max-width:768px){
+
+@media (max-width:100%){
     section#redes-sociais{
-        text-align: left;
+        text-align: right;
         position: relative;
         margin-top: 20px;
         clear: both;
