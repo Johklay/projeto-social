@@ -67,7 +67,7 @@ section#redes-sociais img:hover{
 @media (max-width:100%){
     section#redes-sociais{
         text-align: right;
-        padding-right: 50px;
+        padding-right: 50%;
         position: relative;
         margin-top: 20px;
         clear: both;
